@@ -4,4 +4,4 @@ ACADEMIC-PROJECTS I will be publishing my projects and activities done in the cl
 Download the entire folder in Zip. Extract in your Documents folder or wherever you prefer. index.html and through index.html will be able to access and navigate through the entire project via the web.
 
 
-=====> LINK  https://andersonlimadev.github.io/ACADEMIC-PROJECTS/
+=====> LINK  https://andersonlimadev.github.io/Front-end-e-Desenvolvimento-Web---Academic-Projects/
